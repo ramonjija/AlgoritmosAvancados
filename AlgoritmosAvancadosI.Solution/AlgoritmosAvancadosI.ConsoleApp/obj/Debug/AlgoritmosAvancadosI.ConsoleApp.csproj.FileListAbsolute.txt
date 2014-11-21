@@ -1,0 +1,6 @@
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\bin\Debug\AlgoritmosAvancadosI.ConsoleApp.exe.config
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\bin\Debug\AlgoritmosAvancadosI.ConsoleApp.exe
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\bin\Debug\AlgoritmosAvancadosI.ConsoleApp.pdb
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\obj\Debug\AlgoritmosAvancadosI.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\obj\Debug\AlgoritmosAvancadosI.ConsoleApp.exe
+c:\users\ramon\documents\visual studio 2012\Projects\AlgoritmosAvancadosI.Solution\AlgoritmosAvancadosI.ConsoleApp\obj\Debug\AlgoritmosAvancadosI.ConsoleApp.pdb
